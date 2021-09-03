@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+
+h4 {
+    font-size: 1rem
+}
+
+p {
+    font-size: 0.8rem
+}
+
+.img-fluidx {
+    width: 300px;
+    height: 150px;
+}
+
+.card {
+    margin-left: 5px;
+    margin-bottom: 5px;
+    width: 220px;
+    height: 100px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.card img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.list-pokemon {
+    margin: 0 auto;
+    height: 350px;
+    width: 450px;
+    overflow: scroll;
+}
